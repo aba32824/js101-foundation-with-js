@@ -1,2 +1,3 @@
-# js101-foundation-with-js
-S 101 Foundation with JS
+# JS 101 Foundation with JS
+
+TBD
