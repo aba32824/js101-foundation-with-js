@@ -1,3 +1,3 @@
-# JS 101 Foundation with JS
+# JS 101 - Foundation with JS
 
 TBD
