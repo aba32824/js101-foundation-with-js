@@ -19,3 +19,6 @@ Log all even numbers from 1 to 99, inclusive, to the console, with each number o
 Build a program that asks the user to enter the length and width of a room in meters, and then logs the area of the room to the console in both square meters and square feet.
 
 Note: 1 square meter == 10.7639 square feet
+
+### Sum or Product of Consecutive Integers
+Write a program that asks the user to enter an integer greater than 0, then asks whether the user wants to determine the sum or the product of all numbers between 1 and the entered integer, inclusive.
