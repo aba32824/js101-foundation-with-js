@@ -11,3 +11,6 @@ Write a function that takes one integer argument, which may be positive, negativ
 
 ### Odd Numbers
 Log all odd numbers from 1 to 99, inclusive, to the console, with each number on a separate line.
+
+### Even Numbers
+Log all even numbers from 1 to 99, inclusive, to the console, with each number on a separate line.
