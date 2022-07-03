@@ -14,3 +14,8 @@ Log all odd numbers from 1 to 99, inclusive, to the console, with each number on
 
 ### Even Numbers
 Log all even numbers from 1 to 99, inclusive, to the console, with each number on a separate line.
+
+### How big is the room?
+Build a program that asks the user to enter the length and width of a room in meters, and then logs the area of the room to the console in both square meters and square feet.
+
+Note: 1 square meter == 10.7639 square feet
