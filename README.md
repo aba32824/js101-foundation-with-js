@@ -1,4 +1,4 @@
-# JS 101 - Foundation with JS
+# JS 101 - Foundation with JS (Lesson 1)
 
 ## Exercises: Small Problems
 
